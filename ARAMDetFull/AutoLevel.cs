@@ -56,6 +56,7 @@ namespace ARAMDetFull
             else if (Player.BaseSkinName == "Brand") abilitySequence = new int[] { 2, 1, 3, 2, 2, 4, 2, 3, 2, 3, 4, 3, 3, 1, 1, 4, 1, 1 };
             else if (Player.BaseSkinName == "Braum") abilitySequence = new int[] { 1, 3, 2, 1, 1, 4, 1, 3, 1, 3, 4, 3, 3, 2, 2, 4, 2, 2 };
             else if (Player.BaseSkinName == "Caitlyn") abilitySequence = new int[] { 1, 2, 1, 2, 1, 4, 1, 3, 1, 3, 4, 3, 3, 2, 2, 4, 2, 2 };
+            else if (Player.BaseSkinName == "Camille") abilitySequence = new int[] { 2, 3, 1, 1, 1, 4, 1, 3, 1, 3, 4, 3, 3, 2, 2, 4, 2, 2 };
             else if (Player.BaseSkinName == "Cassiopeia") abilitySequence = new int[] { 1, 3, 3, 2, 3, 4, 3, 1, 3, 1, 4, 1, 1, 2, 2, 4, 2, 2 };
             else if (Player.BaseSkinName == "Chogath") abilitySequence = new int[] { 3, 1, 2, 3, 3, 4, 3, 2, 3, 2, 4, 2, 2, 1, 1, 4, 1, 1 };
             else if (Player.BaseSkinName == "Corki")
